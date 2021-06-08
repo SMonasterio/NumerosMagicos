@@ -1,0 +1,14 @@
+body {
+    background-image: url(./imágenes/wallpapaer.jpg) 
+    
+  }
+  .play {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .play button {
+    font-size: 50px;
+    padding: 20px;
+  }
